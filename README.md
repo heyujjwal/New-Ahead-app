@@ -1,5 +1,5 @@
-# Ahead-app-ug
-This is a dribble design, converted to a Next js 13 app.
+# Ahead-app
+This is a Next js 13 app.
 ## Run Locally
 
 Clone the project
@@ -27,7 +27,7 @@ Start the server
 ```
 
 
-# Ahead-app-ug
+# Ahead-app
 
 The "Ahead App" is a mobile application designed to help individuals improve their emotional intelligence (EQ) by providing personalized, science-driven tools in a convenient and easily accessible format. Here is an overview of the website content and some suggestions for writing a description and README for the GitHub repository:
 
@@ -71,7 +71,19 @@ The website includes information about job opportunities, such as Senior Full St
 
 9. Contact Information:
 
-The website provides contact information, including an email address for inquiries and a link to download the app from the Apple Store.# New-Ahead-app
+The website provides contact information, including an email address for inquiries and a link to download the app from the Apple Store.
+
+# New-Ahead-app
+
+The Ahead App is built using a modern tech stack that includes Next.js and Tailwind CSS.
+
+Next.js: Next.js is a popular React framework that enables server-side rendering and offers a range of features for building fast, efficient, and SEO-friendly web applications. It provides benefits like automatic code splitting, routing, and seamless integration with React components, making it an excellent choice for creating dynamic and responsive web apps.
+
+Tailwind CSS: Tailwind CSS is a utility-first CSS framework that simplifies the process of designing and styling web applications. It provides a set of pre-defined utility classes that developers can use to rapidly create and customize the app's user interface. Tailwind CSS streamlines the styling process, allowing for consistent and visually appealing designs.
+
+Framer Motion is seamlessly integrated into the Ahead App to provide smooth and visually engaging animations. It's used for page transitions, subtle feedback, loading indicators, anonymous social skills rating, microinteractions, and to add visual delight. These animations enhance user experience, making the app more interactive and visually appealing. Framer Motion plays a crucial role in making the Ahead App engaging and enjoyable for users.
+
+In the Ahead App, Next.js is the foundation for building and rendering web pages, while Tailwind CSS is used to efficiently style the app's user interface. Together, these technologies contribute to a fast and visually appealing user experience while simplifying the development process.
 
 
 
