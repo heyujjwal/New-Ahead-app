@@ -25,6 +25,8 @@ Start the server
 ```bash
   npm run dev
 ```
+
+
 # Ahead-app-ug
 
 The "Ahead App" is a mobile application designed to help individuals improve their emotional intelligence (EQ) by providing personalized, science-driven tools in a convenient and easily accessible format. Here is an overview of the website content and some suggestions for writing a description and README for the GitHub repository:
@@ -70,3 +72,8 @@ The website includes information about job opportunities, such as Senior Full St
 9. Contact Information:
 
 The website provides contact information, including an email address for inquiries and a link to download the app from the Apple Store.# New-Ahead-app
+
+
+
+
+Link to project :https://new-ahead-app.vercel.app/
