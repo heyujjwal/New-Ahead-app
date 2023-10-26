@@ -5,7 +5,7 @@ This is a dribble design, converted to a Next js 13 app.
 Clone the project
 
 ```bash
-  git clone https://github.com/heyujjwal/Ahead-app-ug.git
+  git clone https://github.com/heyujjwal/New-Ahead-app.git
 ```
 
 Go to the project directory
